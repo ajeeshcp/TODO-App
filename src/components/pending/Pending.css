@@ -1,0 +1,9 @@
+.pending-trash{
+    cursor: pointer;
+}
+.alert-box{
+    transition: all 0.3s ease-in-out;
+}
+.alert-box:hover {
+    background-color: rgba(182, 213, 218, 0.884);
+}

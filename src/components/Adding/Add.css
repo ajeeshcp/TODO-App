@@ -1,0 +1,11 @@
+.input-items {
+    display:flex;
+    align-items: center;
+}
+
+
+
+body{
+    font-family: 'Poppins', sans-serif ;
+    background-color: rgba(213, 132, 245, 0.507);
+}
